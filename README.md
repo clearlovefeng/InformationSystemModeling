@@ -44,5 +44,5 @@
 
    简单统计了热词等信息
    
-   ![](/img/info8.png)
+   ![](/img/info7.png)
    
